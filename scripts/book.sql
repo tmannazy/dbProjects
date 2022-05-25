@@ -1,0 +1,22 @@
+INSERT INTO Book VALUES
+
+(1,	'Killer Stories',	'Dwayne Caff', '29/4/2020', 736842364-2,'Comedy|Romance',625),
+(2,	'Sheep Ba',	'Guilbert Robrow', '3/17/2022',264184950-3,'Action|Adventure|Drama',688),
+(3,	'African Folklore',	'Tabitha Lubbock', '8/26/2021',022445462-5,'Action|Drama|Sci-Fi',245),
+(4,	'Banditry 101: Become a bandit in 24 hours',	'Karlene Lilburne', '5/22/2019',359264316-9,'Horror',939),
+(5,	'Web Development',	'Dwayne Caff','12/31/2019',830699414-0,'Children|Comedy|Fantasy|Musical',192),
+(6,	'FableHaven',	'Daniela Mathews', '1/18/2020',681361388-9,'Drama',656),
+(7,	'Oreos Ice-cream: My thoughts',	'Alverta Banfield', '2/10/2020',527439557-0,'Documentary',74),
+(8,	'Batman: Idiot Edition',	'Nancie Braben', '9/24/2019',701026416-3,'Animation',278),
+(9,	'Become a millionaire in 10 Days',	'Priscilla De Bischop', '9/12/2019',908569443-4,'Comedy',464),
+(10,	'I have no idea about the contents',	'Doyle Plane', '3/12/2021',822152389-5,'Comedy|Drama',577),
+(11,	'Love 101',	'Forbes Markushkin', '12/31/2020',576673138-8,'Mystery|Thriller',974),
+(12,	'Learn Religion',	'Guilbert Robrow', '2/12/2021',108815040-3,'Documentary',244),
+(13,	'The Last Messenger',	'Muhammad Van Niekerk', '3/25/2021',283483134-3,'Drama',206),
+(14,	'Kids in the Garden',	'Flossi Greveson', '8/7/2020',578412366-1,'Mystery|Thriller',549),
+(15,	'Flintstone',	'Clemente Davidovsky', '8/31/2021',862633317-3,'Comedy|Horror|Sci-Fi|Thriller',543),
+(16,	'Yahoo 101: Next-Gen Hushpuppi',	'Alverta Banfield', '10/12/2021',985641691-4,'Drama|Horror|Thriller',180),
+(17,	'Blockchain: A foof for thought',	'Jyoti Inglese','4/11/2022',946124874-1,'Drama|Western',63 ),
+(18,	'Voltsillam',	'Kara-lynn Hutchinges', '1/1/2020',001993523-4,'Documentary',416),
+(19,	'Lotlux',	'Karina Kimmel', '12/12/2021',487339534-8,'(no genres listed)',689),
+(20,	'Bytecard',	'Kara-lynn Hutchinges', '1/20/2020',686911085-9,'Comedy',581);
